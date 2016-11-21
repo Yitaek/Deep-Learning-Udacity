@@ -1,4 +1,4 @@
-### Udacity's Deep Learning Course Material 
+# Udacity's Deep Learning Course Material 
 
 Assignments for Udacity's MOOC Deep Learning in order. 
 
